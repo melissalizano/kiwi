@@ -1,0 +1,163 @@
+header{
+	padding-bottom: 15px;
+}
+
+body{
+	font-family: "Futura Std Bold", "Futura Std Book", "Futura Std Light", "Futura Std Medium";
+color: #1F1F1F;
+}
+
+#articulos{
+	padding-top: 40px;
+}
+
+#menu{
+	width: 40px;
+}
+
+#primer-articulo{
+	background-color:#5ca9aa;
+}
+
+footer{
+	padding: 20px;
+	background: #afcb1f;
+	color: aliceblue;
+	text-align: right;
+
+}
+footer p{
+	text-align: center;
+}
+	
+
+
+#articulos{
+	padding-bottom: 30px;
+}
+
+#articulos h2{
+	text-align: center;
+	color: #B4CD07;
+	margin-top: 70px;
+	margin-bottom: 0px;
+	font-family:"Futura Std Medium";
+	 
+}
+
+
+#articulos p{
+	color: #848484;
+	text-align: left;
+	font-weight: 100%;
+	font-size: 15px;
+	
+	
+}
+#articulos h3{
+	font-size: 25px;
+	text-align: left;
+	color: #B4CD07;
+	font-family: "Futura Std Medium";
+}
+#articulos h5{
+	text-align: center;
+	margin-bottom: 70px;
+	margin-top: 20px;
+}
+
+#articulos2{
+	padding-bottom: 30px;
+}
+
+#articulos2 h2{
+	text-align: center;
+	color: #B4CD07;
+	margin-top: 70px;
+	margin-bottom: 0px;
+	font-family:"Futura Std Medium";
+	 
+}
+
+#articulos2 p{
+	color: #848484;
+	text-align: left;
+	font-weight: 100%;
+	font-size: 15px;
+	
+	
+}
+#articulos2 h3{
+	font-size: 25px;
+	text-align: left;
+	color: #B4CD07;
+	font-family: "Futura Std Medium";
+}
+#articulos2 h5{
+	text-align: center;
+	margin-bottom: 70px;
+	margin-top: 20px;
+}
+
+#titulo1{
+	font-size: 14px;
+	color: #5ca9aa;
+	font-family:"Futura Std ExtraBold";
+}
+#titulo2{
+	font-size: 14px;
+	color: #6fb632;
+	font-family:"Futura Std ExtraBold";
+}
+#foot{
+	
+	color-background: #6fb632;
+	
+}
+#titulo3{
+	font-size: 14px;
+	color: #616161;
+	font-family:"Futura Std ExtraBold";
+}
+#titulo4{
+	font-size: 14px;
+	color: #5ca9aa;
+	font-family:"Futura Std ExtraBold";
+}
+#titulo5{
+	font-size: 14px;
+	color: #6fb632;
+	font-family:"Futura Std ExtraBold";
+}
+#titulo6{
+	font-size: 14px;
+	color: #616161;
+	font-family:"Futura Std ExtraBold";
+}
+#logo{
+	text-align: left;
+	margin-right: 830px;
+	
+}
+.search{
+	background-color: #B4CD07;
+	padding-top: 10px;
+	padding-left: 15px;
+}	
+
+#primer-articulo h5{
+	padding-top: 10px;
+ color: #fff;
+}
+
+#primer-articulo h1{
+	color: #fff;
+}
+
+#primer-articulo{
+	margin-bottom: 30px;
+}
+
+.titulo{
+	color: #5ca9aa;
+}

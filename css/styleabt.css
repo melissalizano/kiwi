@@ -1,0 +1,40 @@
+body{
+	font-family: "Futura Std Bold", "Futura Std Book", "Futura Std Light", "Futura Std Medium";
+}
+
+#about{
+	color: #B4CD07;
+	padding: 40px 0px;
+}
+
+#mission{
+	padding: 70px 0px;
+
+}
+
+#mission h3{
+	color: #B4CD07;
+text-transform: uppercase;
+	font-weight: 300;
+}
+
+#values{
+	padding: 10px 0 60px;
+}
+
+#values h3{
+	color: #B4CD07;
+text-transform: uppercase;
+	font-weight: 300;
+}
+
+footer{
+	padding: 20px;
+	background: #afcb1f;
+	color: aliceblue;
+	text-align: right;
+
+}
+footer p{
+	text-align: center;
+}
